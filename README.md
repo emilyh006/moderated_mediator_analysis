@@ -1,8 +1,13 @@
 ## moderated_mediator_analysis
-Statisitical Replication as the Final Project for a Computational Social Science Course
+Statisitical Replication as the Final Project for intro Computational Social Science Course
 
-All sources and material comes form: 
 
-Jiang, Y., Poon, KT. Pull yourself out of a dark place: Self-compassion moderates the relationships between ostracism, meaningful existence, and darkness judgment. Curr Psychol 42, 28394–28405 (2023). https://doi.org/10.1007/s12144-022-03838-w
 
+## Study Overview 
+The experiment is a two-part social psychology study that explore the effect of ostracism. It explore if ostracism condition increases darkness judgment and meaningful existence mediates the effect of ostracism on darkness judgment. In addition, does self-compassion trait influence the strength of  ostracism condition on feeling of meaningful existence? 
+
+
+
+## Project Overview 
+In this project, I replicated the statistical analysis of the second study of the experiment with R. 
 
