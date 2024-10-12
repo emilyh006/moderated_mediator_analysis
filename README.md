@@ -18,6 +18,6 @@ In this project, I replicated the statistical analysis from the second study usi
 
 
 
-### Resources
 
-The data analysis in this project was performed following the instructions and examples provided in Washburn, A. N., Chapter 15: Moderated Mediation, available at [Ademos](https://ademos.people.uic.edu/Chapter15.html). This chapter provided detailed guidance on implementing moderated mediation models in R.
+### Acknowledgment
+Special thanks to Anthony N. Washburn for providing clear guidance on moderated mediation models in Washburn, A. N., Chapter 15: Moderated Mediation, available at [Ademos](https://ademos.people.uic.edu/Chapter15.html). This project was developed as part of the Introductory Computational Social Science Course at Univeristy of California, San Diego. 
