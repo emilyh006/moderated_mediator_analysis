@@ -20,4 +20,4 @@ In this project, I replicated the statistical analysis from the second study usi
 
 
 ### Acknowledgment
-Special thanks to Anthony N. Washburn for providing clear guidance on moderated mediation models in Washburn, A. N., Chapter 15: Moderated Mediation, available at [Ademos](https://ademos.people.uic.edu/Chapter15.html). This project was developed as part of the Introductory Computational Social Science Course at Univeristy of California, San Diego. 
+Special thanks to Anthony N. Washburn for providing clear guidance on moderated mediation models in Chapter 15: Moderated Mediation, available at [Ademos](https://ademos.people.uic.edu/Chapter15.html). This project was developed as part of the Introductory Computational Social Science Course at Univeristy of California, San Diego. 
