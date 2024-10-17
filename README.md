@@ -1,4 +1,4 @@
-## moderated_mediator_analysis
+## Moderated Mediator Analysis
 Statisitical Replication as the Final Project for intro Computational Social Science Course
 
 
