@@ -1,5 +1,5 @@
 ## Moderated Mediator Analysis
-Statisitical Replication as the Final Project for intro Computational Social Science Course
+Statistical Replication as the Final Project for intro Computational Social Science Course
 
 
 
