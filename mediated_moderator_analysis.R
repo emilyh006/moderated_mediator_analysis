@@ -1,9 +1,3 @@
-# Install required packages
-install.packages(c("psych", "mediation", "rockchalk", "multilevel", 
-                   "stargazer", "dplyr", "ggplot2"))
-
-
-
 # Load required libraries
 library(psych)          # Descriptive statistics
 library(mediation)      # Mediation analysis and bootstrapping
