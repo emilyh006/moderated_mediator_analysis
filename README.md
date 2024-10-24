@@ -32,5 +32,5 @@ https://osf.io/rt8uz/
 
 
 
-### Acknowledgment
+## Acknowledgment
 Special thanks to Anthony N. Washburn for providing clear guidance on moderated mediation models in Chapter 15: Moderated Mediation, available at [Ademos](https://ademos.people.uic.edu/Chapter15.html). This project was developed as part of the Introductory Computational Social Science Course at Univeristy of California, San Diego. 
